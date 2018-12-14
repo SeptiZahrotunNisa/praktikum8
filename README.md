@@ -9,9 +9,9 @@
 3. Membandingkan nilai variable //output minimum dan maksimum
 
 **Flowchart Program**
-![flow]
+![flow](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum8/master/latihan1.cpp/Flowchart1.png)
 **hasil program**
-![ing]
+![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum8/master/latihan1.cpp/hasil1.png)
 
 **code program** 
 ```
@@ -59,9 +59,9 @@ return 0;
 3. Membandingkan nilai variable HitungStatistik run;
 
 **Flowchart Program**
-![flow]
+![flow](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum8/master/latihan2.cpp/Flowchart2.png)
 **hasil program**
-![ing]
+![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum8/master/latihan2.cpp/hasil2.png)
 
 **code program** 
 ```
@@ -136,7 +136,7 @@ return 0;
 }
 ```
 
-##latihan3.cpp	:
+##latihan3.cpp : Buatlah algoritma dan program untuk mengalikan dua buah matriks.
 
 **Alur algoritma**
 
@@ -152,9 +152,9 @@ return 0;
      			}
 
 **Flowchart Program**
-![flow]
+![flow](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum8/master/latihan3.cpp/Flowchart3.png)
 **hasil program**
-![ing]
+![ing](https://github.com/SeptiZahrotunNisa/praktikum8/blob/master/latihan3.cpp/hasil3.png)
 
 **code program** 
 ```
@@ -271,9 +271,9 @@ return 0;
     Membandingkan nilai variable system("PAUSE"); return EXIT_SUCCESS;
 
 **Flowchart Program**
-![flow]
+![flow](https://github.com/SeptiZahrotunNisa/praktikum8/blob/master/latihan4.cpp/Flowchart4.png)
 **hasil program**
-![ing]
+![ing](https://raw.githubusercontent.com/SeptiZahrotunNisa/praktikum8/master/latihan4.cpp/hasil4.png)
 
 **code program** 
 ```
